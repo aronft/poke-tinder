@@ -1,7 +1,7 @@
-import GlobaeStyle from "./styles";
+import GlobaeStyle from "@/styles";
 
 function App() {
-    <GlobaeStyle />
+  <GlobaeStyle />;
   return <h1>Prueba</h1>;
 }
 
